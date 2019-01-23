@@ -1,0 +1,9 @@
+{
+  "web":{
+    "port": 8080
+  },
+  "database": {
+    "host": "localhost:27017",
+    "database": "rafael"
+  }
+}
